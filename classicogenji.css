@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://gear.blizzard.com/media/catalog/product/o/w/ow-genji-gold-video_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.painel_galeria{
+  background-color: green;
+  border: 2px solid black;
+  box-shadow: -5px 1px 10px black;
+}

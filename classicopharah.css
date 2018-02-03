@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://i.imgur.com/RWPVtXF.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.painel_galeria{
+  background-color: aquamarine;
+  border: 2px solid black;
+  box-shadow: -5px 1px 10px black;
+}

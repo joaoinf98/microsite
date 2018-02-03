@@ -1,0 +1,16 @@
+body {
+    background-image: url("overwatchlogo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.container {
+    font-family: arial;
+    font-weight: bold;
+    color: #000000;
+    border: 1px solid #000000;
+    width: 340px;
+    padding: 10px;
+    text-align: center;
+}

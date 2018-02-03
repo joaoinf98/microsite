@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/fa/78/da/fa78daca318f6675b1e1b545abe7191d.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.painel_galeria{
+  background-color:red;
+  border: 2px solid black;
+  box-shadow: -5px 1px 10px black;
+}

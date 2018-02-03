@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://gear.blizzard.com/media/catalog/product/o/w/ow-genji-gold-video_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-variant: small-caps;
+    font-size: 40px;
+    color:white;
+    text-align: center;
+}
+
+p.small {
+    font-variant: small-caps;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+p1 {
+    font-variant: small-caps;
+    font-size: 30px;
+    color: white;
+    text-align: left;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    font-variant: small-caps;
+    font-size: 40px;
+    color: white;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
